@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pizza-orderer/static/css/main.ebf8e037.chunk.css",
+    "main.js": "/pizza-orderer/static/js/main.924b1d19.chunk.js",
+    "main.js.map": "/pizza-orderer/static/js/main.924b1d19.chunk.js.map",
+    "runtime-main.js": "/pizza-orderer/static/js/runtime-main.d34ad772.js",
+    "runtime-main.js.map": "/pizza-orderer/static/js/runtime-main.d34ad772.js.map",
+    "static/js/2.483ba99b.chunk.js": "/pizza-orderer/static/js/2.483ba99b.chunk.js",
+    "static/js/2.483ba99b.chunk.js.map": "/pizza-orderer/static/js/2.483ba99b.chunk.js.map",
+    "index.html": "/pizza-orderer/index.html",
+    "precache-manifest.7231b6475118699cf6fa4a4a46e5fa9f.js": "/pizza-orderer/precache-manifest.7231b6475118699cf6fa4a4a46e5fa9f.js",
+    "service-worker.js": "/pizza-orderer/service-worker.js",
+    "static/css/main.ebf8e037.chunk.css.map": "/pizza-orderer/static/css/main.ebf8e037.chunk.css.map",
+    "static/js/2.483ba99b.chunk.js.LICENSE.txt": "/pizza-orderer/static/js/2.483ba99b.chunk.js.LICENSE.txt",
+    "static/media/pizza.jpg": "/pizza-orderer/static/media/pizza.a04b2227.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d34ad772.js",
+    "static/js/2.483ba99b.chunk.js",
+    "static/css/main.ebf8e037.chunk.css",
+    "static/js/main.924b1d19.chunk.js"
+  ]
+}
