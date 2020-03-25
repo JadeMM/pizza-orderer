@@ -1,0 +1,57 @@
+html, body {
+    height: 800;
+}
+
+/* div {
+  border: 1px solid black;
+} */
+
+.outerDiv {
+  background-color: white ;
+}
+
+.navli {
+  display: inline-block;
+  margin: 0;
+}
+
+.navlst {
+  margin: 0;
+  margin-top: 10px;
+  padding: 0px 10px;
+}
+
+nav {
+  background-color: white;
+  overflow: hidden;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+button {
+  box-shadow: none;
+  background-color: white;
+  border-radius: 5px 5px 0px 0px;
+  border: none;
+  width: 130px;
+  padding: 10px 5px;
+  font-size: 15px;
+}
+
+.active {
+  background-color: brown;
+  color: white;
+}
+
+button:hover {
+  background-color: rgb(117, 30, 30);
+  color: white;
+  box-shadow: none;
+}
+
+button:focus {
+  outline: 0;
+}

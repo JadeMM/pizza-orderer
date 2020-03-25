@@ -1,0 +1,44 @@
+.page {
+    border: none;
+    overflow: hidden;
+    height: 100%;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.right {
+    background-color: brown;
+    width: 40%;
+    box-sizing: border-box;
+    color: white;
+    vertical-align: top;
+    text-align: center;
+    padding: 70px 0px;
+}
+
+.fill {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 70px 0px;
+}
+
+.orderButton {
+  border-radius: 5px;
+}
+.orderButton:hover {
+    background-color: rgb(117, 30, 30);
+    color: white;
+    box-shadow: none;
+}
+
+.left {
+    padding: 0;
+}
+
+img {
+    width: 100%;
+    display: block;
+}
